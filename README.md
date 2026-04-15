@@ -31,7 +31,7 @@ Updates:
 
 The application checks for updates automatically at regular intervals.
 
-When an update is available, it is downloaded in the background without interrupting your usage. On the top right
+When an update is available, it is downloaded in the background without interrupting your usage. On the right in title bar
 
 The update will be installed the next time you start or restart the application.
 
