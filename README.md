@@ -11,7 +11,7 @@ Or download from Edulith.com home page or App.Edulith.com in Profile -> Download
 Installation:
 	
 1. Download the correct file from the latest release:
-		- Windows: .exe
+			- Windows: .exe
 	  - macOS: .dmg
 	  - Linux: .AppImage or .deb
 
@@ -24,7 +24,6 @@ Installation:
 
    You may see security warnings (e.g. “Unknown publisher” on Windows or unidentified developer on macOS).
    Follow the on-screen options to allow and continue.
-
 3.	Follow the setup instructions
 
 
