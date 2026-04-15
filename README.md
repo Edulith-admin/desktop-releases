@@ -11,7 +11,7 @@ Or download from Edulith.com home page or App.Edulith.com in Profile -> Download
 Installation:
 	
 1. Download the correct file from the latest release:
-	  • Windows: .exe
+		  Windows: .exe
 	  • macOS: .dmg
 	  • Linux: .AppImage or .deb
    Make sure the file keeps its correct extension. If it downloads as a .zip, extract it first.
