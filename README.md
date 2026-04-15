@@ -3,11 +3,13 @@ Edulith Desktop Releases
 Official desktop releases for Edulith.
 
 Download:
+
 Go to the Releases section of this repository and download the latest version for your system.
 Or download from Edulith.com home page or app.edulith.com in Profile -> Download apps
 
 
 Installation:
+
 	1.	Download the correct file from the latest release:
 	•	Windows: .exe
 	•	macOS: .dmg
@@ -23,6 +25,7 @@ Installation:
 
 
 Updates:
+
 The application checks for updates automatically at regular intervals.
 
 When an update is available, it is downloaded in the background without interrupting your usage. On the top right
@@ -31,4 +34,5 @@ The update will be installed the next time you start or restart the application.
 
 
 Support:
+
 If you experience issues, send feedback on the edulith.com website, app, webapp or desktop app
