@@ -5,7 +5,7 @@ Official desktop releases for Edulith.
 Download:
 
 Go to the Releases section of this repository and download the latest version for your system.
-Or download from Edulith.com home page or app.edulith.com in Profile -> Download apps
+Or download from Edulith.com home page or App.Edulith.com in Profile -> Download apps
 
 
 Installation:
