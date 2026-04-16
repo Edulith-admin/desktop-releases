@@ -34,10 +34,10 @@ This license is governed by the laws of Norway.
 Other Applicable Terms
 Your use of Edulith is also governed by the following agreements:
 
-Terms of Service — https://edulith.com/terms
-Privacy Policy — https://edulith.com/privacy
-Cookie Policy — https://edulith.com/cookies
-License Agreement — https://edulith.com/license
+- Terms of Service — https://edulith.com/terms
+- Privacy Policy — https://edulith.com/privacy
+- Cookie Policy — https://edulith.com/cookies
+- License Agreement — https://edulith.com/license
 
 All agreements can also be accessed inside the Desktop App.
 For questions about this license, contact us at contact@edulith.com or visit https://edulith.com/contact.
