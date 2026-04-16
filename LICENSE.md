@@ -13,12 +13,13 @@ Edulith grants you a limited, non-exclusive, non-transferable, revocable license
 3. Restrictions
 You may not:
 
-Copy, modify, or distribute the software or any part of it
-Access, copy, or use the source code
-Reverse engineer, decompile, disassemble, or attempt to extract the source code
-Redistribute, sublicense, sell, rent, or make the software available to others
-Use the software for commercial purposes without explicit written permission
-Remove or alter any proprietary notices or labels
+- Copy, modify, or distribute the software or any part of it
+- Access, copy, or use the source code
+- Reverse engineer, decompile, disassemble, or attempt to extract the source code
+- Redistribute, sublicense, sell, rent, or make the software available to others
+- Use the software for commercial purposes without explicit written permission
+- Remove or alter any proprietary notices or labels
+
 4. Termination
 Any violation of these terms will result in automatic termination of your license. Upon termination, you must stop using the software and delete all copies in your possession.
 
